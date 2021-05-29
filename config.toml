@@ -1,0 +1,4 @@
+baseURL = "http://krishnaturlapati.github.io"
+languageCode = "en-us"
+title = "My personal blog"
+theme="contrast-hugo"
